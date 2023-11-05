@@ -1,0 +1,17 @@
+.e{
+    position: fixed;
+    left:0;
+}
+
+.g{
+    margin-bottom: 0;
+    position: fixed;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px rebeccapurple;
+}
+
+body{
+ background-image: "R(1).jpg";
+}
